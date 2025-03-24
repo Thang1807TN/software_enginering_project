@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManagement1", "FundManagement1\FundManagement1.csproj", "{8B57AA69-9F82-432D-828C-6278729C7097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManagement.Tests", "FundManagement.Tests\FundManagement.Tests.csproj", "{D3809586-E4C7-49EE-8D8D-354AB605178E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B57AA69-9F82-432D-828C-6278729C7097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B57AA69-9F82-432D-828C-6278729C7097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B57AA69-9F82-432D-828C-6278729C7097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B57AA69-9F82-432D-828C-6278729C7097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3809586-E4C7-49EE-8D8D-354AB605178E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3809586-E4C7-49EE-8D8D-354AB605178E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3809586-E4C7-49EE-8D8D-354AB605178E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3809586-E4C7-49EE-8D8D-354AB605178E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05174B33-0BF6-4BA3-A3EF-A01E367F6945}
+	EndGlobalSection
+EndGlobal
